@@ -1,0 +1,286 @@
+{"event":"details","time":1425275492,"u":"81","run":"14.96","mem":"33.67","data":"--- New PHP process."}
+{"event":"details","time":1425275492,"u":"82","run":"14.97","mem":"33.67","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1425275492,"u":"82","run":"14.97","mem":"33.67","data":"Reported PHP execution time - Configured: 3000; Original: 3000; Current: 7200"}
+{"event":"details","time":1425275492,"u":"82","run":"14.97","mem":"33.67","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (256M) or over-ridden value"}
+{"event":"details","time":1425275492,"u":"82","run":"14.98","mem":"33.67","data":"Reported PHP memory limits - Configured: 300M; Original: 300M; Current: 256M"}
+{"event":"message","time":1425275492,"u":"82","run":"14.98","mem":"33.67","data":"Processing cron step for serial `rnw851vh2c`..."}
+{"event":"details","time":1425275492,"u":"85","run":"15.00","mem":"33.67","data":"Exec test (zip) trying executable path: `\/usr\/local\/bin`."}
+{"event":"details","time":1425275492,"u":"87","run":"15.02","mem":"33.68","data":"Exec test (zip) FAILED: Test zip file not found."}
+{"event":"details","time":1425275492,"u":"87","run":"15.03","mem":"33.68","data":"Exec test (zip) FAILED: exec Exit Code: 127"}
+{"event":"details","time":1425275492,"u":"87","run":"15.03","mem":"33.68","data":"Exec test (zip) trying executable path: ``."}
+{"event":"details","time":1425275492,"u":"89","run":"15.05","mem":"33.68","data":"Exec test (zip) PASSED."}
+{"event":"details","time":1425275492,"u":"90","run":"15.06","mem":"33.68","data":"Checking zip version..."}
+{"event":"details","time":1425275492,"u":"91","run":"15.07","mem":"33.68","data":"Found zip version: 3.0"}
+{"event":"details","time":1425275492,"u":"91","run":"15.07","mem":"33.68","data":"Exec test (unzip) checking test file readable: \/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/plugins\/backupbuddy\/lib\/zipbuddy\/zbzip.php"}
+{"event":"details","time":1425275492,"u":"91","run":"15.07","mem":"33.68","data":"Exec test (unzip) checking test file intact: 0a0f9b28c5ff89dfb4f2a0472be0ea8f"}
+{"event":"details","time":1425275492,"u":"92","run":"15.07","mem":"33.68","data":"Exec test (unzip) trying executable path: `\/usr\/local\/bin`."}
+{"event":"details","time":1425275492,"u":"93","run":"15.08","mem":"33.68","data":"Exec test (unzip) FAILED: Test unzip file test failed."}
+{"event":"details","time":1425275492,"u":"93","run":"15.08","mem":"33.68","data":"Exec test (unzip) FAILED: exec Exit Code: 127"}
+{"event":"details","time":1425275492,"u":"93","run":"15.09","mem":"33.68","data":"Exec test (unzip) trying executable path: ``."}
+{"event":"details","time":1425275492,"u":"94","run":"15.10","mem":"33.68","data":"Exec test (unzip) PASSED."}
+{"event":"details","time":1425275492,"u":"94","run":"15.10","mem":"33.68","data":"Checking unzip version..."}
+{"event":"details","time":1425275492,"u":"96","run":"15.11","mem":"33.68","data":"Found unzip version: 6.0"}
+{"event":"details","time":1425275492,"u":"97","run":"15.13","mem":"33.68","data":"ZipArchive test PASSED."}
+{"event":"details","time":1425275492,"u":"97","run":"15.13","mem":"33.68","data":"PCLZip class not found. Attempting to load from `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-admin\/includes\/class-pclzip.php`."}
+{"event":"details","time":1425275493,"u":"01","run":"15.16","mem":"34.88","data":"PclZip test PASSED."}
+{"event":"details","time":1425275493,"u":"01","run":"15.17","mem":"34.88","data":"Running process_backup() for serial `rnw851vh2c`."}
+{"event":"details","time":1425275493,"u":"01","run":"15.17","mem":"34.88","data":"About to load fileoptions data."}
+{"event":"details","time":1425275493,"u":"02","run":"15.17","mem":"34.88","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1425275493,"u":"02","run":"15.17","mem":"34.88","data":"cronPass"}
+{"event":"details","time":1425275493,"u":"02","run":"15.18","mem":"34.88","data":"Fileoptions saved. 6468 bytes written."}
+{"event":"details","time":1425275493,"u":"02","run":"15.18","mem":"34.88","data":"Found next step to run: `backup_create_database_dump`."}
+{"event":"details","time":1425275493,"u":"03","run":"15.18","mem":"34.88","data":"Peak memory usage: 34.881 MB"}
+{"event":"details","time":1425275493,"u":"03","run":"15.18","mem":"34.88","data":"-----"}
+{"event":"details","time":1425275493,"u":"03","run":"15.18","mem":"34.88","data":"Starting step function `backup_create_database_dump` with args `{cddc_bad_behavior,cddc_blc_filters,cddc_blc_instances,cddc_blc_links,cddc_blc_synch,cddc_commentmeta,cddc_comments,cddc_itsec_lockouts,cddc_itsec_log,cddc_itsec_temp,cddc_iwp_backup_status,cddc_links,cddc_options,cddc_postmeta,cddc_posts,cddc_redirection_404,cddc_redirection_groups,cddc_redirection_items,cddc_redirection_logs,cddc_redirection_modules,cddc_sucuri_lastlogins,cddc_term_relationships,cddc_term_taxonomy,cddc_terms,cddc_usermeta,cddc_users},`. Attempt #1."}
+{"event":"startFunction","time":1425275493,"u":"03","run":"15.18","mem":"34.88","data":"{\"function\":\"backup_create_database_dump\",\"title\":\"Backing up database\"}"}
+{"event":"milestone","time":1425275493,"u":"03","run":"15.19","mem":"34.88","data":"start_database"}
+{"event":"message","time":1425275493,"u":"03","run":"15.19","mem":"34.88","data":"Starting database backup process."}
+{"event":"message","time":1425275493,"u":"03","run":"15.19","mem":"34.88","data":"Using auto-detected database dump method(s) based on settings."}
+{"event":"details","time":1425275493,"u":"04","run":"15.19","mem":"34.88","data":"Compatibility mysqldump (if applicable) max rows per select set to 2000."}
+{"event":"details","time":1425275493,"u":"04","run":"15.19","mem":"34.88","data":"Database host for dumping: `internal-db.s191812.gridserver.com`"}
+{"event":"details","time":1425275493,"u":"04","run":"15.20","mem":"34.88","data":"Loading mysqldump library."}
+{"event":"details","time":1425275493,"u":"04","run":"15.20","mem":"34.88","data":"Mysql server default directories: `\/usr\/bin\/,\/usr\/bin\/mysql\/,\/usr\/local\/bin\/`"}
+{"event":"details","time":1425275493,"u":"04","run":"15.20","mem":"34.88","data":"mysqlbuddy: Force method of `0` passed."}
+{"event":"message","time":1425275493,"u":"04","run":"15.20","mem":"34.88","data":"mysqlbuddy: Method not forced. About to detect directory and available methods."}
+{"event":"details","time":1425275493,"u":"05","run":"15.20","mem":"34.88","data":"mysqlbuddy: Attempting to calculate exact mysql directory."}
+{"event":"details","time":1425275493,"u":"05","run":"15.20","mem":"34.88","data":"mysqlbuddy: Mysql reported its directory. Reported: `\/usr\/`; Adding binary location to beginning of mysql directory list: `\/usr\/bin\/`"}
+{"event":"details","time":1425275493,"u":"05","run":"15.20","mem":"34.88","data":"mysqldump test: Testing available mysql database dump methods."}
+{"event":"details","time":1425275493,"u":"05","run":"15.21","mem":"34.88","data":"mysqldump test: exec() function exists. Testing running mysqldump via exec()."}
+{"event":"details","time":1425275493,"u":"05","run":"15.21","mem":"34.88","data":"mysqldump test running next."}
+{"event":"details","time":1425275493,"u":"05","run":"15.21","mem":"34.88","data":"exec_dir not detected. Proceeding normally."}
+{"event":"details","time":1425275493,"u":"05","run":"15.21","mem":"34.88","data":"exec() command `PATH=$PATH:\/usr\/bin\/:\/usr\/local\/bin\/:usr\/local\/bin:\/usr\/local\/sbin\/:\/usr\/sbin\/:\/sbin\/:\/usr\/:\/bin\/; \/usr\/bin\/mysqldump --version  2>&1` (with path definition)."}
+{"event":"details","time":1425275493,"u":"07","run":"15.23","mem":"34.88","data":"exec() command output: `mysqldump  Ver 10.13 Distrib 5.1.73, for debian-linux-gnu (x86_64)`; Exit code: `0`; Exit code description: `Command completed & returned normally.`"}
+{"event":"details","time":1425275493,"u":"07","run":"15.23","mem":"34.88","data":"mysqldump test: Command appears to be accessible and returns expected response."}
+{"event":"message","time":1425275493,"u":"07","run":"15.23","mem":"34.88","data":"mysqlbuddy: Detected database dump methods: `commandline,php`."}
+{"event":"details","time":1425275493,"u":"08","run":"15.23","mem":"34.88","data":"If applicable, breaking up with max execution time `7200` seconds."}
+{"event":"milestone","time":1425275493,"u":"08","run":"15.23","mem":"34.88","data":"start_database"}
+{"event":"message","time":1425275493,"u":"08","run":"15.24","mem":"34.88","data":"Starting database dump procedure."}
+{"event":"details","time":1425275493,"u":"08","run":"15.24","mem":"34.88","data":"mysqlbuddy: Output directory: `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/`."}
+{"event":"details","time":1425275493,"u":"08","run":"15.24","mem":"34.88","data":"Table dump count: `26`."}
+{"event":"details","time":1425275493,"u":"09","run":"15.24","mem":"34.88","data":"Preparing to dump using available method(s) by priority. Methods: `commandline,php`"}
+{"event":"details","time":1425275493,"u":"09","run":"15.24","mem":"34.88","data":"mysqlbuddy: Attempting dump method `commandline`."}
+{"event":"details","time":1425275493,"u":"09","run":"15.24","mem":"34.88","data":"mysqlbuddy: Preparing to run command line mysqldump via exec()."}
+{"event":"details","time":1425275493,"u":"09","run":"15.25","mem":"34.88","data":"mysqlbuddy: Command length: `789`."}
+{"event":"details","time":1425275493,"u":"09","run":"15.25","mem":"34.88","data":"mysqlbuddy: Command line length of `789` (bytes) is large enough ( >250 ) to verify compatibility. Checking maximum allowed command line length for this sytem."}
+{"event":"details","time":1425275493,"u":"10","run":"15.25","mem":"34.88","data":"exec_dir not detected. Proceeding normally."}
+{"event":"details","time":1425275493,"u":"10","run":"15.25","mem":"34.88","data":"exec() command `PATH=$PATH:\/usr\/bin\/:\/usr\/local\/bin\/:usr\/local\/bin:\/usr\/local\/sbin\/:\/usr\/sbin\/:\/sbin\/:\/usr\/:\/bin\/; echo $(( $(getconf ARG_MAX) - $(env | wc -c) ))` (with path definition)."}
+{"event":"details","time":1425275493,"u":"11","run":"15.27","mem":"34.88","data":"exec() command output: `2095209`; Exit code: `0`; Exit code description: `Command completed & returned normally.`"}
+{"event":"details","time":1425275493,"u":"12","run":"15.27","mem":"34.88","data":"mysqlbuddy: Command output: `2095209`; Exit code: `0`; Exit code description: `Command completed & returned normally.`"}
+{"event":"details","time":1425275493,"u":"12","run":"15.27","mem":"34.88","data":"mysqlbuddy: Detected maximum command line length for this system: `2095209`."}
+{"event":"details","time":1425275493,"u":"12","run":"15.27","mem":"34.88","data":"mysqlbuddy: This system's maximum command line length of `2095209` is longer than command length of `789`. Continuing."}
+{"event":"details","time":1425275493,"u":"12","run":"15.28","mem":"34.88","data":"mysqlbuddy: Running dump via commandline next."}
+{"event":"details","time":1425275493,"u":"12","run":"15.28","mem":"34.88","data":"exec_dir not detected. Proceeding normally."}
+{"event":"details","time":1425275493,"u":"13","run":"15.28","mem":"34.88","data":"exec() command (password hidden) `PATH=$PATH:\/usr\/bin\/:\/usr\/local\/bin\/:usr\/local\/bin:\/usr\/local\/sbin\/:\/usr\/sbin\/:\/sbin\/:\/usr\/:\/bin\/; \/usr\/bin\/mysqldump --host='internal-db.s191812.gridserver.com' --user='db191812_devdb' --password=*HIDDEN* --skip-opt --quick --disable-keys --skip-comments --create-options  'db191812_sddsDb' cddc_bad_behavior cddc_blc_filters cddc_blc_instances cddc_blc_links cddc_blc_synch cddc_commentmeta cddc_comments cddc_itsec_lockouts cddc_itsec_log cddc_itsec_temp cddc_iwp_backup_status cddc_links cddc_options cddc_postmeta cddc_posts cddc_redirection_404 cddc_redirection_groups cddc_redirection_items cddc_redirection_logs cddc_redirection_modules cddc_sucuri_lastlogins cddc_term_relationships cddc_term_taxonomy cddc_terms cddc_usermeta cddc_users 2>&1 >> \/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/db_1.sql` (with path definition)."}
+{"event":"details","time":1425275493,"u":"60","run":"15.75","mem":"34.88","data":"exec() command output: ``; Exit code: `0`; Exit code description: `Command completed & returned normally.`"}
+{"event":"details","time":1425275493,"u":"60","run":"15.75","mem":"34.88","data":"Loading DB kicker in case database has gone away."}
+{"event":"details","time":1425275493,"u":"60","run":"15.76","mem":"34.88","data":"Database kicker database object class: `wpdb`."}
+{"event":"details","time":1425275493,"u":"60","run":"15.76","mem":"34.88","data":"Database is being accessed by mysqli."}
+{"event":"details","time":1425275493,"u":"60","run":"15.76","mem":"34.88","data":"Pinging mysqli."}
+{"event":"details","time":1425275493,"u":"60","run":"15.76","mem":"34.88","data":"Database Server connection status verified."}
+{"event":"details","time":1425275493,"u":"61","run":"15.76","mem":"34.88","data":"Database seems to still be connected."}
+{"event":"details","time":1425275493,"u":"61","run":"15.76","mem":"34.88","data":"mysqlbuddy: Command appears to succeeded and returned proper response."}
+{"event":"message","time":1425275493,"u":"61","run":"15.76","mem":"34.88","data":"mysqlbuddy: Database dump SQL file exists."}
+{"event":"details","time":1425275493,"u":"61","run":"15.77","mem":"34.88","data":"Final SQL database dump file size of `db_1.sql`: 7.77 MB."}
+{"event":"details","time":1425275493,"u":"61","run":"15.77","mem":"34.88","data":"mysqlbuddy: Dump method `commandline` completed successfully."}
+{"event":"milestone","time":1425275493,"u":"61","run":"15.77","mem":"34.88","data":"finish_database"}
+{"event":"message","time":1425275493,"u":"61","run":"15.77","mem":"34.88","data":"Database dump procedure succeeded."}
+{"event":"details","time":1425275493,"u":"62","run":"15.77","mem":"34.88","data":"Fileoptions saved. 6480 bytes written."}
+{"event":"details","time":1425275493,"u":"62","run":"15.77","mem":"34.88","data":"Finished function `backup_create_database_dump`. Peak memory usage: 34.881 MB"}
+{"event":"finishFunction","time":1425275493,"u":"62","run":"15.77","mem":"34.88","data":"{\"function\":\"backup_create_database_dump\"}"}
+{"event":"details","time":1425275493,"u":"62","run":"15.77","mem":"34.88","data":"-----"}
+{"event":"details","time":1425275493,"u":"62","run":"15.78","mem":"34.88","data":"Scheduling Cron for `rnw851vh2c`."}
+{"event":"details","time":1425275493,"u":"62","run":"15.78","mem":"34.88","data":"Loading DB kicker in case database has gone away."}
+{"event":"details","time":1425275493,"u":"62","run":"15.78","mem":"34.88","data":"Database kicker database object class: `wpdb`."}
+{"event":"details","time":1425275493,"u":"62","run":"15.78","mem":"34.88","data":"Database is being accessed by mysqli."}
+{"event":"details","time":1425275493,"u":"62","run":"15.78","mem":"34.88","data":"Pinging mysqli."}
+{"event":"details","time":1425275493,"u":"63","run":"15.78","mem":"34.88","data":"Database Server connection status verified."}
+{"event":"details","time":1425275493,"u":"63","run":"15.78","mem":"34.88","data":"Database seems to still be connected."}
+{"event":"details","time":1425275493,"u":"63","run":"15.78","mem":"34.88","data":"Scheduling next step to run at `1425275493` (localized time: Mar 2, 2015 5:51:33 am) with cron tag `pb_backupbuddy_process_backup` and serial arguments `rnw851vh2c`."}
+{"event":"details","time":1425275493,"u":"63","run":"15.79","mem":"34.88","data":"Next step scheduled."}
+{"event":"startAction","time":1425275493,"u":"63","run":"15.79","mem":"34.88","data":"cronPass"}
+{"event":"cronParams","time":1425275493,"u":"64","run":"15.79","mem":"34.88","data":"eyJ0aW1lIjoxNDI1Mjc1NDkzLCJ0YWciOiJwYl9iYWNrdXBidWRkeV9wcm9jZXNzX2JhY2t1cCIsImFyZ3MiOlsicm53ODUxdmgyYyJdfQ=="}
+{"event":"details","time":1425275493,"u":"64","run":"15.79","mem":"34.88","data":"About to run next step. If the backup does not proceed within 15 seconds then something is interfering with the WordPress CRON system such as: server loopback issues, caching plugins, or scheduling plugins. Try disabling other plugins to see if it resolves issue.  Check the Server Information page cron section to see if the next BackupBuddy step is scheduled to run. Enable \"Classic\" backup mode on the \"Settings\" page to rule out non-cron issues."}
+{"event":"details","time":1425275493,"u":"64","run":"15.79","mem":"34.88","data":"Completed step function `backup_create_database_dump`."}
+{"event":"details","time":1425277361,"u":"11","run":"0.64","mem":"28.59","data":"--- New PHP process."}
+{"event":"details","time":1425277361,"u":"12","run":"0.66","mem":"28.59","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1425277361,"u":"12","run":"0.66","mem":"28.59","data":"Reported PHP execution time - Configured: 3000; Original: 600; Current: 7200"}
+{"event":"details","time":1425277361,"u":"13","run":"0.66","mem":"28.59","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (256M) or over-ridden value"}
+{"event":"details","time":1425277361,"u":"13","run":"0.66","mem":"28.59","data":"Reported PHP memory limits - Configured: 300M; Original: 300M; Current: 256M"}
+{"event":"message","time":1425277361,"u":"13","run":"0.66","mem":"28.59","data":"Processing cron step for serial `rnw851vh2c`..."}
+{"event":"details","time":1425277361,"u":"17","run":"0.70","mem":"29.92","data":"Exec test (zip) trying executable path: `\/usr\/local\/bin`."}
+{"event":"details","time":1425277361,"u":"19","run":"0.72","mem":"29.93","data":"Exec test (zip) FAILED: Test zip file not found."}
+{"event":"details","time":1425277361,"u":"19","run":"0.72","mem":"29.93","data":"Exec test (zip) FAILED: exec Exit Code: 127"}
+{"event":"details","time":1425277361,"u":"19","run":"0.72","mem":"29.93","data":"Exec test (zip) trying executable path: ``."}
+{"event":"details","time":1425277361,"u":"21","run":"0.74","mem":"29.93","data":"Exec test (zip) PASSED."}
+{"event":"details","time":1425277361,"u":"22","run":"0.75","mem":"29.93","data":"Checking zip version..."}
+{"event":"details","time":1425277361,"u":"23","run":"0.76","mem":"29.93","data":"Found zip version: 3.0"}
+{"event":"details","time":1425277361,"u":"23","run":"0.76","mem":"29.93","data":"Exec test (unzip) checking test file readable: \/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/plugins\/backupbuddy\/lib\/zipbuddy\/zbzip.php"}
+{"event":"details","time":1425277361,"u":"23","run":"0.76","mem":"29.93","data":"Exec test (unzip) checking test file intact: 0a0f9b28c5ff89dfb4f2a0472be0ea8f"}
+{"event":"details","time":1425277361,"u":"24","run":"0.77","mem":"29.93","data":"Exec test (unzip) trying executable path: `\/usr\/local\/bin`."}
+{"event":"details","time":1425277361,"u":"24","run":"0.78","mem":"29.93","data":"Exec test (unzip) FAILED: Test unzip file test failed."}
+{"event":"details","time":1425277361,"u":"25","run":"0.78","mem":"29.93","data":"Exec test (unzip) FAILED: exec Exit Code: 127"}
+{"event":"details","time":1425277361,"u":"25","run":"0.78","mem":"29.93","data":"Exec test (unzip) trying executable path: ``."}
+{"event":"details","time":1425277361,"u":"26","run":"0.79","mem":"29.93","data":"Exec test (unzip) PASSED."}
+{"event":"details","time":1425277361,"u":"26","run":"0.79","mem":"29.93","data":"Checking unzip version..."}
+{"event":"details","time":1425277361,"u":"27","run":"0.80","mem":"29.93","data":"Found unzip version: 6.0"}
+{"event":"details","time":1425277361,"u":"29","run":"0.82","mem":"29.93","data":"ZipArchive test PASSED."}
+{"event":"details","time":1425277361,"u":"29","run":"0.82","mem":"29.93","data":"PCLZip class not found. Attempting to load from `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-admin\/includes\/class-pclzip.php`."}
+{"event":"details","time":1425277361,"u":"33","run":"0.87","mem":"31.14","data":"PclZip test PASSED."}
+{"event":"details","time":1425277361,"u":"34","run":"0.87","mem":"31.14","data":"Running process_backup() for serial `rnw851vh2c`."}
+{"event":"details","time":1425277361,"u":"34","run":"0.87","mem":"31.14","data":"About to load fileoptions data."}
+{"event":"details","time":1425277361,"u":"35","run":"0.88","mem":"31.14","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1425277361,"u":"35","run":"0.88","mem":"31.14","data":"cronPass"}
+{"event":"details","time":1425277361,"u":"35","run":"0.88","mem":"31.14","data":"Fileoptions saved. 6492 bytes written."}
+{"event":"details","time":1425277361,"u":"35","run":"0.89","mem":"31.14","data":"Found next step to run: `backup_zip_files`."}
+{"event":"details","time":1425277361,"u":"35","run":"0.89","mem":"31.14","data":"Peak memory usage: 31.137 MB"}
+{"event":"details","time":1425277361,"u":"36","run":"0.89","mem":"31.14","data":"-----"}
+{"event":"details","time":1425277361,"u":"36","run":"0.89","mem":"31.14","data":"Starting step function `backup_zip_files` with args ``. Attempt #1."}
+{"event":"startFunction","time":1425277361,"u":"36","run":"0.89","mem":"31.14","data":"{\"function\":\"backup_zip_files\",\"title\":\"Zipping up files\"}"}
+{"event":"milestone","time":1425277361,"u":"36","run":"0.89","mem":"31.14","data":"start_files"}
+{"event":"details","time":1425277361,"u":"36","run":"0.89","mem":"31.14","data":"Backup root: `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/`."}
+{"event":"message","time":1425277361,"u":"36","run":"0.90","mem":"31.14","data":"Running standard ZIP system based on settings."}
+{"event":"details","time":1425277361,"u":"37","run":"0.90","mem":"31.14","data":"Running under 64-bit PHP"}
+{"event":"details","time":1425277361,"u":"37","run":"0.90","mem":"31.14","data":"Server API: cgi-fcgi"}
+{"event":"details","time":1425277361,"u":"37","run":"0.90","mem":"31.14","data":"Using Best Available zip method based on settings."}
+{"event":"details","time":1425277361,"u":"37","run":"0.90","mem":"31.14","data":"Creating ZIP file `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip`. Adding directory `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/`. Excludes: \/wp-content\/uploads\/backupbuddy_backups\/,\/wp-content\/uploads\/pb_backupbuddy\/,\/importbuddy\/,\/importbuddy.php"}
+{"event":"details","time":1425277361,"u":"37","run":"0.91","mem":"31.14","data":"Trying exec method for ZIP."}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Using zip version: 3.0"}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Zip archive creation compression enabled based on settings."}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Zip archive creation symbolic links will not be followed based on settings."}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Zip archive creation actionable warnings will not be ignored based on settings."}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Creating backup exclusions file `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/exclusions.txt`."}
+{"event":"details","time":1425277361,"u":"38","run":"0.91","mem":"31.14","data":"Excluding directory `\/wp-content\/uploads\/backupbuddy_backups\/`."}
+{"event":"details","time":1425277361,"u":"38","run":"0.92","mem":"31.14","data":"Excluding directory `\/wp-content\/uploads\/pb_backupbuddy\/`."}
+{"event":"details","time":1425277361,"u":"39","run":"0.92","mem":"31.14","data":"Omitting exclusion as file\/directory does not currently exist: `\/importbuddy\/`."}
+{"event":"details","time":1425277361,"u":"39","run":"0.92","mem":"31.14","data":"Omitting exclusion as file\/directory does not currently exist: `\/importbuddy.php`."}
+{"event":"details","time":1425277361,"u":"39","run":"0.92","mem":"31.14","data":"Backup exclusions file created."}
+{"event":"details","time":1425277361,"u":"39","run":"0.92","mem":"31.14","data":"Using exclusion file `\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/exclusions.txt`"}
+{"event":"details","time":1425277361,"u":"39","run":"0.93","mem":"31.14","data":"exec command: zip -r -q -y -lf '\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/temp_zip_exec_log.txt' -li -b '\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/' '\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip' . -x@'\/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/temp_zip_rnw851vh2c\/exclusions.txt'"}
+{"event":"details","time":1425277361,"u":"78","run":"1.31","mem":"31.14","data":"Zip process exit code: 0"}
+{"event":"details","time":1425277361,"u":"78","run":"1.31","mem":"31.14","data":"Zip process reported: 0 warnings"}
+{"event":"details","time":1425277361,"u":"78","run":"1.32","mem":"31.14","data":"Moving Zip Archive file to local archive directory."}
+{"event":"details","time":1425277361,"u":"79","run":"1.32","mem":"31.14","data":"Zip Archive file moved to local archive directory."}
+{"event":"message","time":1425277361,"u":"79","run":"1.32","mem":"31.14","data":"Zip Archive file successfully created with no errors or actionable warnings."}
+{"event":"details","time":1425277361,"u":"79","run":"1.32","mem":"31.14","data":"Zip Archive file size: 795308 bytes, owned by user:group 2107104:193758 with permissions 0600"}
+{"event":"details","time":1425277361,"u":"79","run":"1.33","mem":"31.14","data":"Removing temporary directory."}
+{"event":"details","time":1425277361,"u":"83","run":"1.36","mem":"31.14","data":"The exec method for ZIP was successful."}
+{"event":"message","time":1425277361,"u":"83","run":"1.36","mem":"31.14","data":"Backup ZIP file successfully created."}
+{"event":"details","time":1425277361,"u":"83","run":"1.36","mem":"31.14","data":"Chmod of ZIP file to 0644 succeeded."}
+{"event":"details","time":1425277361,"u":"83","run":"1.36","mem":"31.14","data":"Saving meta data to zip comment."}
+{"event":"startAction","time":1425277361,"u":"84","run":"1.37","mem":"31.14","data":"zipCommentMeta"}
+{"event":"details","time":1425277361,"u":"89","run":"1.42","mem":"31.14","data":"exec (zip) set comment in file \/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip"}
+{"event":"finishAction","time":1425277361,"u":"89","run":"1.43","mem":"31.14","data":"zipCommentMeta"}
+{"event":"details","time":1425277361,"u":"90","run":"1.43","mem":"31.14","data":"Saved meta data to zip comment."}
+{"event":"details","time":1425277361,"u":"90","run":"1.43","mem":"31.14","data":"Loading DB kicker in case database has gone away."}
+{"event":"details","time":1425277361,"u":"90","run":"1.43","mem":"31.14","data":"Database kicker database object class: `wpdb`."}
+{"event":"details","time":1425277361,"u":"90","run":"1.44","mem":"31.14","data":"Database is being accessed by mysqli."}
+{"event":"details","time":1425277361,"u":"91","run":"1.44","mem":"31.14","data":"Pinging mysqli."}
+{"event":"details","time":1425277361,"u":"91","run":"1.44","mem":"31.14","data":"Database Server connection status verified."}
+{"event":"details","time":1425277361,"u":"91","run":"1.44","mem":"31.14","data":"Database seems to still be connected."}
+{"event":"details","time":1425277361,"u":"91","run":"1.44","mem":"31.14","data":"Fileoptions saved. 6504 bytes written."}
+{"event":"details","time":1425277361,"u":"91","run":"1.45","mem":"31.14","data":"Finished function `backup_zip_files`. Peak memory usage: 31.137 MB"}
+{"event":"finishFunction","time":1425277361,"u":"92","run":"1.45","mem":"31.14","data":"{\"function\":\"backup_zip_files\"}"}
+{"event":"details","time":1425277361,"u":"92","run":"1.45","mem":"31.14","data":"-----"}
+{"event":"details","time":1425277361,"u":"92","run":"1.45","mem":"31.14","data":"Scheduling Cron for `rnw851vh2c`."}
+{"event":"details","time":1425277361,"u":"92","run":"1.45","mem":"31.14","data":"Loading DB kicker in case database has gone away."}
+{"event":"details","time":1425277361,"u":"93","run":"1.46","mem":"31.14","data":"Database kicker database object class: `wpdb`."}
+{"event":"details","time":1425277361,"u":"93","run":"1.46","mem":"31.14","data":"Database is being accessed by mysqli."}
+{"event":"details","time":1425277361,"u":"93","run":"1.46","mem":"31.14","data":"Pinging mysqli."}
+{"event":"details","time":1425277361,"u":"93","run":"1.46","mem":"31.14","data":"Database Server connection status verified."}
+{"event":"details","time":1425277361,"u":"94","run":"1.47","mem":"31.14","data":"Database seems to still be connected."}
+{"event":"details","time":1425277361,"u":"94","run":"1.47","mem":"31.14","data":"Scheduling next step to run at `1425277361` (localized time: Mar 2, 2015 6:22:41 am) with cron tag `pb_backupbuddy_process_backup` and serial arguments `rnw851vh2c`."}
+{"event":"details","time":1425277361,"u":"94","run":"1.47","mem":"31.14","data":"Next step scheduled."}
+{"event":"startAction","time":1425277361,"u":"95","run":"1.48","mem":"31.14","data":"cronPass"}
+{"event":"cronParams","time":1425277361,"u":"95","run":"1.48","mem":"31.14","data":"eyJ0aW1lIjoxNDI1Mjc3MzYxLCJ0YWciOiJwYl9iYWNrdXBidWRkeV9wcm9jZXNzX2JhY2t1cCIsImFyZ3MiOlsicm53ODUxdmgyYyJdfQ=="}
+{"event":"details","time":1425277361,"u":"95","run":"1.48","mem":"31.14","data":"About to run next step. If the backup does not proceed within 15 seconds then something is interfering with the WordPress CRON system such as: server loopback issues, caching plugins, or scheduling plugins. Try disabling other plugins to see if it resolves issue.  Check the Server Information page cron section to see if the next BackupBuddy step is scheduled to run. Enable \"Classic\" backup mode on the \"Settings\" page to rule out non-cron issues."}
+{"event":"details","time":1425277361,"u":"95","run":"1.49","mem":"31.14","data":"Completed step function `backup_zip_files`."}
+{"event":"details","time":1425277366,"u":"57","run":"0.30","mem":"28.51","data":"--- New PHP process."}
+{"event":"details","time":1425277366,"u":"57","run":"0.30","mem":"28.51","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1425277366,"u":"57","run":"0.30","mem":"28.51","data":"Reported PHP execution time - Configured: 3000; Original: 3000; Current: 7200"}
+{"event":"details","time":1425277366,"u":"58","run":"0.30","mem":"28.51","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (256M) or over-ridden value"}
+{"event":"details","time":1425277366,"u":"58","run":"0.30","mem":"28.51","data":"Reported PHP memory limits - Configured: 300M; Original: 300M; Current: 256M"}
+{"event":"message","time":1425277366,"u":"58","run":"0.30","mem":"28.51","data":"Processing cron step for serial `rnw851vh2c`..."}
+{"event":"details","time":1425277366,"u":"60","run":"0.32","mem":"29.87","data":"Running process_backup() for serial `rnw851vh2c`."}
+{"event":"details","time":1425277366,"u":"60","run":"0.32","mem":"29.87","data":"About to load fileoptions data."}
+{"event":"details","time":1425277366,"u":"60","run":"0.33","mem":"29.94","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1425277366,"u":"60","run":"0.33","mem":"29.94","data":"cronPass"}
+{"event":"details","time":1425277366,"u":"61","run":"0.33","mem":"29.96","data":"Fileoptions saved. 6516 bytes written."}
+{"event":"details","time":1425277366,"u":"61","run":"0.33","mem":"29.96","data":"Found next step to run: `integrity_check`."}
+{"event":"details","time":1425277366,"u":"61","run":"0.34","mem":"29.96","data":"Peak memory usage: 29.963 MB"}
+{"event":"details","time":1425277366,"u":"61","run":"0.34","mem":"29.96","data":"-----"}
+{"event":"details","time":1425277366,"u":"61","run":"0.34","mem":"29.96","data":"Starting step function `integrity_check` with args ``. Attempt #1."}
+{"event":"startFunction","time":1425277366,"u":"61","run":"0.34","mem":"29.96","data":"{\"function\":\"integrity_check\",\"title\":\"Verifying backup file integrity\"}"}
+{"event":"milestone","time":1425277366,"u":"61","run":"0.34","mem":"29.96","data":"start_integrity"}
+{"event":"message","time":1425277366,"u":"62","run":"0.34","mem":"29.96","data":"Scanning and verifying backup file integrity."}
+{"event":"details","time":1425277366,"u":"62","run":"0.34","mem":"29.96","data":"Started backup_integrity_check() function."}
+{"event":"details","time":1425277366,"u":"62","run":"0.34","mem":"29.96","data":"Verifying comment in zip archive."}
+{"event":"details","time":1425277366,"u":"63","run":"0.36","mem":"29.97","data":"exec (unzip) retrieved comment in file \/nfs\/c11\/h02\/mnt\/191812\/domains\/jomwebmedia.com\/html\/clients\/shredderon\/wp-content\/uploads\/backupbuddy_backups\/backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip"}
+{"event":"details","time":1425277366,"u":"63","run":"0.36","mem":"29.97","data":"NOTE: It is normal to see several \"File not found\" messages in the next several log lines."}
+{"event":"details","time":1425277366,"u":"64","run":"0.36","mem":"29.97","data":"Verifying DAT file in zip archive."}
+{"event":"details","time":1425277366,"u":"65","run":"0.37","mem":"29.97","data":"File not found (exec): wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/backupbuddy_dat.php"}
+{"event":"details","time":1425277366,"u":"66","run":"0.39","mem":"29.98","data":"File not found (exec): wp-content\/uploads\/temp_rnw851vh2c\/backupbuddy_dat.php"}
+{"event":"details","time":1425277366,"u":"68","run":"0.40","mem":"29.98","data":"File found (exec): backupbuddy_dat.php"}
+{"event":"details","time":1425277366,"u":"68","run":"0.40","mem":"29.98","data":"Verifying database SQL file in zip archive."}
+{"event":"details","time":1425277366,"u":"69","run":"0.41","mem":"29.98","data":"File not found (exec): wp-content\/uploads\/backupbuddy_temp\/rnw851vh2c\/db_1.sql"}
+{"event":"details","time":1425277366,"u":"70","run":"0.43","mem":"29.98","data":"File not found (exec): wp-content\/uploads\/temp_rnw851vh2c\/db.sql"}
+{"event":"details","time":1425277366,"u":"77","run":"0.49","mem":"29.98","data":"File found (exec): db_1.sql"}
+{"event":"details","time":1425277366,"u":"78","run":"0.50","mem":"29.98","data":"File not found (exec): db.sql"}
+{"event":"details","time":1425277366,"u":"78","run":"0.50","mem":"29.98","data":"Retrieving zip scan log."}
+{"event":"details","time":1425277366,"u":"78","run":"0.51","mem":"29.98","data":"Calculating integrity scan status,"}
+{"event":"details","time":1425277366,"u":"78","run":"0.51","mem":"29.98","data":"Status: `Pass`. Description: ``."}
+{"event":"details","time":1425277366,"u":"79","run":"0.51","mem":"29.98","data":"Getting file details such as size, timestamp, etc."}
+{"event":"details","time":1425277366,"u":"79","run":"0.52","mem":"29.98","data":"Saving backup file integrity check details."}
+{"event":"details","time":1425277366,"u":"80","run":"0.52","mem":"29.99","data":"Fileoptions saved. 7092 bytes written."}
+{"event":"milestone","time":1425277366,"u":"80","run":"0.53","mem":"29.99","data":"finish_integrity"}
+{"event":"details","time":1425277366,"u":"81","run":"0.53","mem":"29.99","data":"Fileoptions saved. 7104 bytes written."}
+{"event":"details","time":1425277366,"u":"81","run":"0.53","mem":"29.99","data":"Finished function `integrity_check`. Peak memory usage: 29.991 MB"}
+{"event":"finishFunction","time":1425277366,"u":"81","run":"0.53","mem":"29.99","data":"{\"function\":\"integrity_check\"}"}
+{"event":"details","time":1425277366,"u":"81","run":"0.54","mem":"29.99","data":"-----"}
+{"event":"details","time":1425277366,"u":"81","run":"0.54","mem":"29.99","data":"Scheduling Cron for `rnw851vh2c`."}
+{"event":"details","time":1425277366,"u":"81","run":"0.54","mem":"29.99","data":"Loading DB kicker in case database has gone away."}
+{"event":"details","time":1425277366,"u":"82","run":"0.54","mem":"30.00","data":"Database kicker database object class: `wpdb`."}
+{"event":"details","time":1425277366,"u":"82","run":"0.54","mem":"30.00","data":"Database is being accessed by mysqli."}
+{"event":"details","time":1425277366,"u":"82","run":"0.54","mem":"30.00","data":"Pinging mysqli."}
+{"event":"details","time":1425277366,"u":"82","run":"0.54","mem":"30.00","data":"Database Server connection status verified."}
+{"event":"details","time":1425277366,"u":"82","run":"0.55","mem":"30.00","data":"Database seems to still be connected."}
+{"event":"details","time":1425277366,"u":"82","run":"0.55","mem":"30.00","data":"Scheduling next step to run at `1425277366` (localized time: Mar 2, 2015 6:22:46 am) with cron tag `pb_backupbuddy_process_backup` and serial arguments `rnw851vh2c`."}
+{"event":"details","time":1425277366,"u":"83","run":"0.55","mem":"30.09","data":"Next step scheduled."}
+{"event":"startAction","time":1425277366,"u":"83","run":"0.55","mem":"30.09","data":"cronPass"}
+{"event":"cronParams","time":1425277366,"u":"83","run":"0.55","mem":"30.09","data":"eyJ0aW1lIjoxNDI1Mjc3MzY2LCJ0YWciOiJwYl9iYWNrdXBidWRkeV9wcm9jZXNzX2JhY2t1cCIsImFyZ3MiOlsicm53ODUxdmgyYyJdfQ=="}
+{"event":"details","time":1425277366,"u":"83","run":"0.56","mem":"30.09","data":"About to run next step. If the backup does not proceed within 15 seconds then something is interfering with the WordPress CRON system such as: server loopback issues, caching plugins, or scheduling plugins. Try disabling other plugins to see if it resolves issue.  Check the Server Information page cron section to see if the next BackupBuddy step is scheduled to run. Enable \"Classic\" backup mode on the \"Settings\" page to rule out non-cron issues."}
+{"event":"details","time":1425277366,"u":"83","run":"0.56","mem":"30.09","data":"Completed step function `integrity_check`."}
+{"event":"details","time":1425277374,"u":"47","run":"0.43","mem":"28.51","data":"--- New PHP process."}
+{"event":"details","time":1425277374,"u":"47","run":"0.44","mem":"28.51","data":"Attempted to set PHP execution time to 7200"}
+{"event":"details","time":1425277374,"u":"48","run":"0.44","mem":"28.51","data":"Reported PHP execution time - Configured: 3000; Original: 3000; Current: 7200"}
+{"event":"details","time":1425277374,"u":"48","run":"0.44","mem":"28.51","data":"Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (256M) or over-ridden value"}
+{"event":"details","time":1425277374,"u":"49","run":"0.45","mem":"28.51","data":"Reported PHP memory limits - Configured: 300M; Original: 300M; Current: 256M"}
+{"event":"message","time":1425277374,"u":"49","run":"0.45","mem":"28.51","data":"Processing cron step for serial `rnw851vh2c`..."}
+{"event":"details","time":1425277374,"u":"52","run":"0.48","mem":"29.87","data":"Running process_backup() for serial `rnw851vh2c`."}
+{"event":"details","time":1425277374,"u":"52","run":"0.48","mem":"29.87","data":"About to load fileoptions data."}
+{"event":"details","time":1425277374,"u":"53","run":"0.49","mem":"29.95","data":"Fileoptions data loaded."}
+{"event":"finishAction","time":1425277374,"u":"53","run":"0.49","mem":"29.95","data":"cronPass"}
+{"event":"details","time":1425277374,"u":"53","run":"0.50","mem":"29.97","data":"Fileoptions saved. 7116 bytes written."}
+{"event":"details","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"Found next step to run: `post_backup`."}
+{"event":"details","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"Peak memory usage: 29.969 MB"}
+{"event":"details","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"-----"}
+{"event":"details","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"Starting step function `post_backup` with args ``. Attempt #1."}
+{"event":"startFunction","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"{\"function\":\"post_backup\",\"title\":\"Cleaning up\"}"}
+{"event":"message","time":1425277374,"u":"54","run":"0.50","mem":"29.97","data":"Cleaning up after backup."}
+{"event":"details","time":1425277374,"u":"54","run":"0.51","mem":"29.97","data":"Removing temp data directory."}
+{"event":"details","time":1425277374,"u":"56","run":"0.52","mem":"29.97","data":"Trimming old archives (if needed)."}
+{"event":"details","time":1425277374,"u":"61","run":"0.57","mem":"29.99","data":"Trimmed 0 old archives based on settings archive limits."}
+{"event":"details","time":1425277374,"u":"61","run":"0.57","mem":"29.99","data":"Final ZIP file size: 777 KB"}
+{"event":"archiveSize","time":1425277374,"u":"61","run":"0.57","mem":"29.99","data":"777 KB"}
+{"event":"details","time":1425277374,"u":"61","run":"0.57","mem":"29.99","data":"Updating statistics for last backup completed and number of edits since last backup."}
+{"event":"details","time":1425277374,"u":"61","run":"0.57","mem":"30.03","data":"Sending scheduled backup complete email notification."}
+{"event":"error","time":1425277374,"u":"62","run":"0.58","mem":"30.27","data":"Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http:\/\/jomwebmedia.com\/clients\/shredderon`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Mon, 02 Mar 15 06:22:54 +0000 for the site http:\/\/jomwebmedia.com\/clients\/shredderon.\n\nDetails:\r\n\r\nScheduled backup \"Weekly Database (Quick Setup - Starter)\" completed successfully in 23 hours.\n`; recipient(s): ``."}
+{"event":"message","time":1425277374,"u":"63","run":"0.59","mem":"30.27","data":"Finished cleaning up."}
+{"event":"archiveInfo","time":1425277374,"u":"63","run":"0.59","mem":"30.27","data":"{\"file\":\"backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip\",\"url\":\"http:\\\/\\\/jomwebmedia.com\\\/clients\\\/shredderon\\\/wp-admin\\\/admin-ajax.php?action=pb_backupbuddy_download_archive&backupbuddy_backup=backup-jomwebmedia_com_clients_shredderon-2015_03_01-07_17am-db-rnw851vh2c.zip\"}"}
+{"event":"details","time":1425277374,"u":"63","run":"0.59","mem":"30.28","data":"Fileoptions saved. 7136 bytes written."}
+{"event":"details","time":1425277374,"u":"63","run":"0.59","mem":"30.28","data":"Finished function `post_backup`. Peak memory usage: 30.281 MB"}
+{"event":"finishFunction","time":1425277374,"u":"63","run":"0.59","mem":"30.28","data":"{\"function\":\"post_backup\"}"}
+{"event":"details","time":1425277374,"u":"63","run":"0.60","mem":"30.28","data":"-----"}
+{"event":"details","time":1425277374,"u":"64","run":"0.60","mem":"30.28","data":"No more backup steps remain. Finishing..."}
+{"event":"details","time":1425277374,"u":"64","run":"0.60","mem":"30.28","data":"Fileoptions saved. 7148 bytes written."}
+{"event":"startFunction","time":1425277374,"u":"64","run":"0.60","mem":"30.28","data":"{\"function\":\"backup_success\",\"title\":\"Backup completed successfully.\"}"}
+{"event":"finishFunction","time":1425277374,"u":"64","run":"0.60","mem":"30.28","data":"{\"function\":\"backup_success\"}"}

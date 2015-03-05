@@ -1,0 +1,16 @@
+#AuthUserFile /home/1379/domains/.htpasswd
+#AuthType basic
+#AuthName "Firm Media Restricted Resource"
+#require valid-user
+
+#<FilesMatch "\.(css|js|jpg|jpeg|gif|png)$">
+#Order Allow,Deny
+#Allow from All
+#Satisfy Any
+#</FilesMatch>
+
+#<Files admin-ajax.php>
+#Order Allow,Deny
+#Allow from All
+#Satisfy Any
+#</Files>

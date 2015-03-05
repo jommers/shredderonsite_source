@@ -1,0 +1,186 @@
+[Aug 23, 2014 18:29:49 0-error] [23r0hurjp6] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 23 Aug 14 18:29:49 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 15 minutes.
+`; recipient(s): ``.
+[Aug 23, 2014 23:26:29 0-error] [j6ri1tqpqs] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 23 Aug 14 23:26:29 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 12 minutes.
+`; recipient(s): ``.
+[Aug 30, 2014 18:29:37 0-error] [105q52mv49] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 30 Aug 14 18:29:37 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 14 minutes.
+`; recipient(s): ``.
+[Sep 6, 2014 18:29:49 0-error] [xomqzf0t7k] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 06 Sep 14 18:29:49 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 17 minutes.
+`; recipient(s): ``.
+[Sep 13, 2014 18:33:33 0-error] [4f6r0hokf4] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 13 Sep 14 18:33:33 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 20 minutes.
+`; recipient(s): ``.
+[Sep 20, 2014 18:32:48 0-error] [g6fu5b6s01] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 20 Sep 14 18:32:48 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 18 minutes.
+`; recipient(s): ``.
+[Sep 22, 2014 23:34:44 0-error] [s8nj5dwedg] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Mon, 22 Sep 14 23:34:44 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 20 minutes.
+`; recipient(s): ``.
+[Sep 27, 2014 18:26:47 0-error] [qyk2o13osn] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 27 Sep 14 18:26:47 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 14 minutes.
+`; recipient(s): ``.
+[Oct 4, 2014 18:29:00 0-error] [txs1qdvmi9] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 04 Oct 14 18:29:00 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 15 minutes.
+`; recipient(s): ``.
+[Oct 11, 2014 18:17:14 0-error] [0oymvef6af] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 11 Oct 14 18:17:14 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 2 minutes.
+`; recipient(s): ``.
+[Oct 18, 2014 18:17:58 0-error] [rbngb1bcev] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 18 Oct 14 18:17:58 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 5 minutes.
+`; recipient(s): ``.
+[Oct 22, 2014 23:15:48 0-error] [f1ygucpe1r] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Wed, 22 Oct 14 23:15:48 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 3 minutes.
+`; recipient(s): ``.
+[Oct 25, 2014 18:15:33 0-error] [traz9bodws] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 25 Oct 14 18:15:33 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 3 minutes.
+`; recipient(s): ``.
+[Nov 1, 2014 18:25:25 0-error] [e7t6j6uhvm] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 01 Nov 14 18:25:25 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 12 minutes.
+`; recipient(s): ``.
+[Nov 8, 2014 18:35:02 0-error] [p839c1ni4p] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 08 Nov 14 18:35:02 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 20 minutes.
+`; recipient(s): ``.
+[Nov 15, 2014 18:26:24 0-error] [y9aj2n7jo2] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 15 Nov 14 18:26:24 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 12 minutes.
+`; recipient(s): ``.
+[Nov 21, 2014 23:35:14 0-error] [t3p6awkwai] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Fri, 21 Nov 14 23:35:14 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 20 minutes.
+`; recipient(s): ``.
+[Nov 22, 2014 18:24:23 0-error] [mdv7yonyox] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 22 Nov 14 18:24:23 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 9 minutes.
+`; recipient(s): ``.
+[Nov 29, 2014 18:32:09 0-error] [9542umv1ry] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 29 Nov 14 18:32:09 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 15 minutes.
+`; recipient(s): ``.
+[Dec 6, 2014 18:23:52 0-error] [hobdu464p9] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 06 Dec 14 18:23:52 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 10 minutes.
+`; recipient(s): ``.
+[Dec 13, 2014 18:23:36 0-error] [o4gpe0nepr] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 13 Dec 14 18:23:36 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 11 minutes.
+`; recipient(s): ``.
+[Dec 20, 2014 18:27:06 0-error] [245b5nqdua] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 20 Dec 14 18:27:06 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 13 minutes.
+`; recipient(s): ``.
+[Dec 21, 2014 23:23:54 0-error] [s4ci2rh20j] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sun, 21 Dec 14 23:23:54 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 10 minutes.
+`; recipient(s): ``.
+[Dec 27, 2014 18:27:28 0-error] [dp4tzytx2i] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 27 Dec 14 18:27:28 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 15 minutes.
+`; recipient(s): ``.
+[Jan 3, 2015 18:30:28 0-error] [me2jbdr1ta] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 03 Jan 15 18:30:28 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 15 minutes.
+`; recipient(s): ``.
+[Jan 10, 2015 18:36:16 0-error] [ap4hu3yigq] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 10 Jan 15 18:36:16 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 20 minutes.
+`; recipient(s): ``.
+[Jan 17, 2015 18:20:21 0-error] [bcjwazyphy] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 17 Jan 15 18:20:21 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 8 minutes.
+`; recipient(s): ``.
+[Jan 20, 2015 23:59:00 0-error] [dye06jgmjn] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Tue, 20 Jan 15 23:59:00 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Monthly Full (Quick Setup - Starter)" completed successfully in 40 minutes.
+`; recipient(s): ``.
+[Jan 24, 2015 20:03:24 0-error] [3ofhoxvwea] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 24 Jan 15 20:03:24 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 2 hours.
+`; recipient(s): ``.
+[Jan 31, 2015 18:31:32 0-error] [y3dc4hgh3r] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://shredderonsite.com`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Sat, 31 Jan 15 18:31:32 +0000 for the site http://shredderonsite.com.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 17 minutes.
+`; recipient(s): ``.
+[Mar 2, 2015 06:22:54 0-error] [rnw851vh2c] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://jomwebmedia.com/clients/shredderon`; body: `A scheduled backup has completed with BackupBuddy v4.2.16.11 on Mon, 02 Mar 15 06:22:54 +0000 for the site http://jomwebmedia.com/clients/shredderon.
+
+Details:
+
+Scheduled backup "Weekly Database (Quick Setup - Starter)" completed successfully in 23 hours.
+`; recipient(s): ``.
